@@ -1,0 +1,17 @@
+.bg-primary {
+
+    background-color:#435d7d!important;
+    color: white;
+    
+
+}
+
+.react-tel-input .form-control {
+    width: 100%!important;
+}
+
+.active {
+   color:#435d7d!important;
+   font-weight: bold;
+    
+}
